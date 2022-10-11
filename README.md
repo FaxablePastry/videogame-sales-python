@@ -14,7 +14,7 @@ Maintainers:
 3. Install the python dependencies by running `pip install -r requirements.txt` from the command line in the project directory.
 
 ### Usage ###
-Execute `run.bat` or use execute `python -m videogames-sales-python` from the module directory.
+Execute `run.bat` or use execute `python -m jupyter notebook` from the module directory.
 
 ## Updating Dependencies ##
 Install the python dependencies by running `pip install -r requirements.txt` from the command line in the project directory.
