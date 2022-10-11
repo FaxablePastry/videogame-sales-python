@@ -1,5 +1,5 @@
 ## videogame-sales-python
-A python module for experimenting with statistic on an example videogames dataset.
+A python module for experimenting with exploratory data analysis in python on an example videogames dataset.
 
 Maintainers:
 * Nathan Lock
